@@ -1,4 +1,3 @@
-/*------------RESET----------*/
 
 *{
 margin:0;
@@ -19,7 +18,7 @@ color:#000;
 line-height:1.6;
 }
 
-/* centers content */
+/* ------ centers content ----------- */
 .wrapper{
 max-width:1200px;
 margin:auto;
@@ -126,7 +125,7 @@ animation:fadeIn 1.5s ease;
 max-width:550px;
 }
 
-/*------------ BUTTONS --------*/
+/*----------- BUTTON --------*/
 
 .btn{
 display:inline-block;
